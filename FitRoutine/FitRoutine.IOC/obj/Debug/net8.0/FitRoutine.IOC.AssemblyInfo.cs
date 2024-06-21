@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FitRoutine.IOC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+412d7605ac117c8d875bc2af4f6d7d76a3b0ba75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdcc1bce7b214c3eba5c8793b8675fff82956b7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FitRoutine.IOC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FitRoutine.IOC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
