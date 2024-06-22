@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\bin\Debug\net8.0\FitRoutine.Infrastructure.deps.json
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\bin\Debug\net8.0\FitRoutine.Infrastructure.dll
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\bin\Debug\net8.0\FitRoutine.Infrastructure.pdb
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.AssemblyInfo.cs
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.sourcelink.json
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.dll
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\refint\FitRoutine.Infrastructure.dll
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.pdb
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\ref\FitRoutine.Infrastructure.dll

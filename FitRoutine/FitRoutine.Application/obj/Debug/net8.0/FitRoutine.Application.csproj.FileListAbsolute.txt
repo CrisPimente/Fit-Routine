@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Application\bin\Debug\net8.0\FitRoutine.Application.deps.json
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Application\bin\Debug\net8.0\FitRoutine.Application.runtimeconfig.json
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Application\bin\Debug\net8.0\FitRoutine.Application.dll
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Application\bin\Debug\net8.0\FitRoutine.Application.pdb
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Application\obj\Debug\net8.0\FitRoutine.Application.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Application\obj\Debug\net8.0\FitRoutine.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Application\obj\Debug\net8.0\FitRoutine.Application.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Application\obj\Debug\net8.0\FitRoutine.Application.AssemblyInfo.cs
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Application\obj\Debug\net8.0\FitRoutine.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Application\obj\Debug\net8.0\FitRoutine.Application.sourcelink.json
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Application\obj\Debug\net8.0\FitRoutine.Application.dll
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Application\obj\Debug\net8.0\refint\FitRoutine.Application.dll
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Application\obj\Debug\net8.0\FitRoutine.Application.pdb
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Application\obj\Debug\net8.0\FitRoutine.Application.genruntimeconfig.cache
+C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Application\obj\Debug\net8.0\ref\FitRoutine.Application.dll

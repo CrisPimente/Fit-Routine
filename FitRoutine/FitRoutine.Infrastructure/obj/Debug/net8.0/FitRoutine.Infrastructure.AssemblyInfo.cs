@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FitRoutine.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90ad29922100d73f2f541391897f9c78b45d31c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9704503f8dc1267527bfdb77d36e722c5963b8f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("FitRoutine.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FitRoutine.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
