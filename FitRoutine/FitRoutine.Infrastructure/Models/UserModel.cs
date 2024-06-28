@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FitRoutine.Infrastructure.Context
+namespace FitRoutine.Infrastructure.Models
 {
-    internal interface IRoutineRepository
+    internal class UserModel
     {
+        public int Id { get; set; }
     }
 }

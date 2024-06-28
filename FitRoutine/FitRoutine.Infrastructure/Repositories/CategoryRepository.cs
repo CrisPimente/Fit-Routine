@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FitRoutine.Infrastructure.Repositories
 {
-    internal class ApplicationDbContext
+    internal class CategoryRepository
     {
     }
 }

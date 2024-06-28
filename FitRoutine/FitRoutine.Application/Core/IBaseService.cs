@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FitRoutine.Infrastructure.Exceptions
+namespace FitRoutine.Application.Core
 {
-    internal class RoutineException
+    public interface IBaseService
     {
     }
 }

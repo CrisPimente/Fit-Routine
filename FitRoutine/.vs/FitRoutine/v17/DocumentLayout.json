@@ -1,9 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Keury\\Desktop\\Fit-Routine\\FitRoutine\\",
+  "WorkspaceRootPath": "C:\\Users\\Jorge Leyba\\source\\repos\\Fit-Routine\\FitRoutine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81C33F13-430F-47AE-9CEC-C75CD4CD9F28}|FitRoutine.Web\\FitRoutine.Web.csproj|c:\\users\\keury\\desktop\\fit-routine\\fitroutine\\fitroutine.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B40B9688-B3D1-4EB4-AEA0-87ACAB5F376C}|FitRoutine.Infrastructure\\FitRoutine.Infrastructure.csproj|c:\\users\\jorge leyba\\source\\repos\\fit-routine\\fitroutine\\fitroutine.infrastructure\\fitroutine.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B40B9688-B3D1-4EB4-AEA0-87ACAB5F376C}|FitRoutine.Infrastructure\\FitRoutine.Infrastructure.csproj|solutionrelative:fitroutine.infrastructure\\fitroutine.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C33F13-430F-47AE-9CEC-C75CD4CD9F28}|FitRoutine.Web\\FitRoutine.Web.csproj|c:\\users\\jorge leyba\\source\\repos\\fit-routine\\fitroutine\\fitroutine.web\\fitroutine.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81C33F13-430F-47AE-9CEC-C75CD4CD9F28}|FitRoutine.Web\\FitRoutine.Web.csproj|solutionrelative:fitroutine.web\\fitroutine.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7324806F-715E-4A97-88B0-572FB5E86DF0}|FitRoutine.Domain\\FitRoutine.Domain.csproj|c:\\users\\jorge leyba\\source\\repos\\fit-routine\\fitroutine\\fitroutine.domain\\fitroutine.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7324806F-715E-4A97-88B0-572FB5E86DF0}|FitRoutine.Domain\\FitRoutine.Domain.csproj|solutionrelative:fitroutine.domain\\fitroutine.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDB2F16-202C-430B-BF61-36E0E9B346BE}|FitRoutine.Application\\FitRoutine.Application.csproj|c:\\users\\jorge leyba\\source\\repos\\fit-routine\\fitroutine\\fitroutine.application\\fitroutine.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EDB2F16-202C-430B-BF61-36E0E9B346BE}|FitRoutine.Application\\FitRoutine.Application.csproj|solutionrelative:fitroutine.application\\fitroutine.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C082ECEE-838A-440C-B1EF-AA058E2241C8}|FitRoutine.API\\FitRoutine.API.csproj|c:\\users\\jorge leyba\\source\\repos\\fit-routine\\fitroutine\\fitroutine.api\\fitroutine.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C082ECEE-838A-440C-B1EF-AA058E2241C8}|FitRoutine.API\\FitRoutine.API.csproj|solutionrelative:fitroutine.api\\fitroutine.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C33F13-430F-47AE-9CEC-C75CD4CD9F28}|FitRoutine.Web\\FitRoutine.Web.csproj|c:\\users\\jorge leyba\\source\\repos\\fit-routine\\fitroutine\\fitroutine.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C33F13-430F-47AE-9CEC-C75CD4CD9F28}|FitRoutine.Web\\FitRoutine.Web.csproj|solutionrelative:fitroutine.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,8 +37,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -23,15 +50,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Keury\\Desktop\\Fit-Routine\\FitRoutine\\FitRoutine.Web\\Program.cs",
-              "RelativeDocumentMoniker": "FitRoutine.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\Keury\\Desktop\\Fit-Routine\\FitRoutine\\FitRoutine.Web\\Program.cs",
-              "RelativeToolTip": "FitRoutine.Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T19:37:18.874Z",
+              "Title": "FitRoutine.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Jorge Leyba\\source\\repos\\Fit-Routine\\FitRoutine\\FitRoutine.Infrastructure\\FitRoutine.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "FitRoutine.Infrastructure\\FitRoutine.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Jorge Leyba\\source\\repos\\Fit-Routine\\FitRoutine\\FitRoutine.Infrastructure\\FitRoutine.Infrastructure.csproj",
+              "RelativeToolTip": "FitRoutine.Infrastructure\\FitRoutine.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T01:06:12.898Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FitRoutine.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Jorge Leyba\\source\\repos\\Fit-Routine\\FitRoutine\\FitRoutine.Web\\FitRoutine.Web.csproj",
+              "RelativeDocumentMoniker": "FitRoutine.Web\\FitRoutine.Web.csproj",
+              "ToolTip": "C:\\Users\\Jorge Leyba\\source\\repos\\Fit-Routine\\FitRoutine\\FitRoutine.Web\\FitRoutine.Web.csproj",
+              "RelativeToolTip": "FitRoutine.Web\\FitRoutine.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T01:06:06.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FitRoutine.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Jorge Leyba\\source\\repos\\Fit-Routine\\FitRoutine\\FitRoutine.Domain\\FitRoutine.Domain.csproj",
+              "RelativeDocumentMoniker": "FitRoutine.Domain\\FitRoutine.Domain.csproj",
+              "ToolTip": "C:\\Users\\Jorge Leyba\\source\\repos\\Fit-Routine\\FitRoutine\\FitRoutine.Domain\\FitRoutine.Domain.csproj",
+              "RelativeToolTip": "FitRoutine.Domain\\FitRoutine.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T01:06:02.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FitRoutine.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Jorge Leyba\\source\\repos\\Fit-Routine\\FitRoutine\\FitRoutine.Application\\FitRoutine.Application.csproj",
+              "RelativeDocumentMoniker": "FitRoutine.Application\\FitRoutine.Application.csproj",
+              "ToolTip": "C:\\Users\\Jorge Leyba\\source\\repos\\Fit-Routine\\FitRoutine\\FitRoutine.Application\\FitRoutine.Application.csproj",
+              "RelativeToolTip": "FitRoutine.Application\\FitRoutine.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T00:57:41.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FitRoutine.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Jorge Leyba\\source\\repos\\Fit-Routine\\FitRoutine\\FitRoutine.API\\FitRoutine.API.csproj",
+              "RelativeDocumentMoniker": "FitRoutine.API\\FitRoutine.API.csproj",
+              "ToolTip": "C:\\Users\\Jorge Leyba\\source\\repos\\Fit-Routine\\FitRoutine\\FitRoutine.API\\FitRoutine.API.csproj",
+              "RelativeToolTip": "FitRoutine.API\\FitRoutine.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T00:56:14.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAPkAAAAAAAAAAAApwAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-28T00:55:34.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jorge Leyba\\source\\repos\\Fit-Routine\\FitRoutine\\FitRoutine.Web\\Program.cs",
+              "RelativeDocumentMoniker": "FitRoutine.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Jorge Leyba\\source\\repos\\Fit-Routine\\FitRoutine\\FitRoutine.Web\\Program.cs",
+              "RelativeToolTip": "FitRoutine.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:37:18.874Z"
             }
           ]
         }

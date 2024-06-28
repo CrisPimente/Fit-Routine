@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FitRoutine.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9704503f8dc1267527bfdb77d36e722c5963b8f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4accd090f11364d6ff3ed1889d2a52849a0b7b1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FitRoutine.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FitRoutine.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace FitRoutine.Domain.Entities
 {
-    public class Actividade : BaseEntity
+    public class Instructor : BaseEntity
     {
-        public string nombre { get; set; }
-        public string descripcion { get; set; }
-        public int categoriaId { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Specialization { get; set; }
     }
 }

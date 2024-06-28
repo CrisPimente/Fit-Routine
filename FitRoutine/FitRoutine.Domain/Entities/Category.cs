@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace FitRoutine.Domain.Entities
 {
-    public class Categoria : BaseEntity
+    public class Category : BaseEntity
     {
-        public string nombre { get; set; }
-        public string descripcion { get; set;}
+        public string Name { get; set; }
+        public string Description { get; set; }
     }
 }
