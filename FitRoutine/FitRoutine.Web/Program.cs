@@ -1,12 +1,12 @@
-using FitRoutine.Web.Models;
 using Microsoft.EntityFrameworkCore;
+using FitRoutine.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddDbContext<FitRoutineContext>(options =>
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
         options.UseSqlServer(builder.Configuration.GetConnectionString("conexion")));
 
 var app = builder.Build();
@@ -31,5 +31,3 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
-
-//Arreglando...

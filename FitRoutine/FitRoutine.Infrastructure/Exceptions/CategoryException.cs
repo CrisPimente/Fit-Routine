@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FitRoutine.Infrastructure.Exceptions
 {
-    internal class CategoryException
+    public class CategoryException
     {
     }
 }

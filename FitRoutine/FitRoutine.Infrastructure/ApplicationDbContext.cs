@@ -1,4 +1,4 @@
-﻿using FitRoutine.Domain.Entities;
+﻿using FitRoutine.Domain.Entities; 
 using Microsoft.EntityFrameworkCore;
 
 namespace FitRoutine.Infrastructure
@@ -9,6 +9,7 @@ namespace FitRoutine.Infrastructure
             : base(options)
         {
         }
+
         public DbSet<Activity> Activities { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Instructor> Instructors { get; set; }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FitRoutine.Infrastructure.Context
 {
-    internal interface ISessionRepository
+    public class ISessionRepository
     {
     }
 }

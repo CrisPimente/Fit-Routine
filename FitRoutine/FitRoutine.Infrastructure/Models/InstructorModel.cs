@@ -6,8 +6,14 @@ using System.Threading.Tasks;
 
 namespace FitRoutine.Infrastructure.Models
 {
-    internal class InstructorModel
+    public class InstructorModel
     {
-        public int Id { get; set; }
+        public int InstructorId { get; set; }
+
+        public string FirstName { get; set; } = null!;
+
+        public string LastName { get; set; } = null!;
+
+        public string? Specialty { get; set; }
     }
 }

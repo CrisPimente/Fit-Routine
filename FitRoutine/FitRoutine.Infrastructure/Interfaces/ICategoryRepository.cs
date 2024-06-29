@@ -1,13 +1,13 @@
-﻿using System;
+﻿using FitRoutine.Domain.Entities;
+using FitRoutine.Infrastructure;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace FitRoutine.Infrastructure.Interfaces
+namespace FitRoutine.Domain.Repository
 {
-    internal class ICategoryRepository
+    public interface ICategoryRepository
     {
-        public int Id { get; set; }
+
     }
 }
+

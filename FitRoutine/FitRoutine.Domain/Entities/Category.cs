@@ -7,9 +7,14 @@ using System.Threading.Tasks;
 
 namespace FitRoutine.Domain.Entities
 {
-    public class Category : BaseEntity
+    public partial class Category : BaseEntity
     {
-        public string Name { get; set; }
-        public string Description { get; set; }
+        public int CategoryId { get; set; }
+
+        public string Name { get; set; } = null!;
+
+        public string? Description { get; set; }
+
+        public virtual ICollection<Activity> Activities { get; set; } = new List<Activity>();
     }
 }

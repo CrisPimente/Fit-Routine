@@ -10,3 +10,21 @@ C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructu
 C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\refint\FitRoutine.Infrastructure.dll
 C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.pdb
 C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\ref\FitRoutine.Infrastructure.dll
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\bin\Debug\net8.0\FitRoutine.Infrastructure.deps.json
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\bin\Debug\net8.0\FitRoutine.Infrastructure.runtimeconfig.json
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\bin\Debug\net8.0\FitRoutine.Infrastructure.dll
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\bin\Debug\net8.0\FitRoutine.Infrastructure.pdb
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\bin\Debug\net8.0\FitRoutine.Domain.dll
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\bin\Debug\net8.0\FitRoutine.Domain.pdb
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.AssemblyInfo.cs
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.sourcelink.json
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRouti.578BC248.Up2Date
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.dll
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\refint\FitRoutine.Infrastructure.dll
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.pdb
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\FitRoutine.Infrastructure.genruntimeconfig.cache
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.Infrastructure\obj\Debug\net8.0\ref\FitRoutine.Infrastructure.dll

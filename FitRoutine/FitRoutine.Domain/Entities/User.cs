@@ -7,15 +7,22 @@ using System.Threading.Tasks;
 
 namespace FitRoutine.Domain.Entities
 {
-    public class User : BaseEntity
+    public partial class User : BaseEntity
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string Email { get; set; }
-        public string Password { get; set; }
-        public DateOnly DateOfBirth { get; set; }
-        public string Gender { get; set; }
+        public int UserId { get; set; }
+
+        public string FirstName { get; set; } = null!;
+
+        public string LastName { get; set; } = null!;
+
+        public string Email { get; set; } = null!;
+
+        public string Password { get; set; } = null!;
+
         public DateTime RegistrationDate { get; set; }
-        public string Address { get; set; }
+
+        public string? Gender { get; set; }
+
+        public virtual ICollection<Session> Sessions { get; set; } = new List<Session>();
     }
 }

@@ -13,3 +13,18 @@ C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.IOC\obj\Debu
 C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.IOC\obj\Debug\net8.0\FitRoutine.IOC.pdb
 C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.IOC\obj\Debug\net8.0\FitRoutine.IOC.genruntimeconfig.cache
 C:\Users\user\OneDrive\Escritorio\Fit-Routine\FitRoutine\FitRoutine.IOC\obj\Debug\net8.0\ref\FitRoutine.IOC.dll
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.IOC\bin\Debug\net8.0\FitRoutine.IOC.deps.json
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.IOC\bin\Debug\net8.0\FitRoutine.IOC.runtimeconfig.json
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.IOC\bin\Debug\net8.0\FitRoutine.IOC.dll
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.IOC\bin\Debug\net8.0\FitRoutine.IOC.pdb
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.IOC\obj\Debug\net8.0\FitRoutine.IOC.csproj.AssemblyReference.cache
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.IOC\obj\Debug\net8.0\FitRoutine.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.IOC\obj\Debug\net8.0\FitRoutine.IOC.AssemblyInfoInputs.cache
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.IOC\obj\Debug\net8.0\FitRoutine.IOC.AssemblyInfo.cs
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.IOC\obj\Debug\net8.0\FitRoutine.IOC.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.IOC\obj\Debug\net8.0\FitRoutine.IOC.sourcelink.json
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.IOC\obj\Debug\net8.0\FitRoutine.IOC.dll
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.IOC\obj\Debug\net8.0\refint\FitRoutine.IOC.dll
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.IOC\obj\Debug\net8.0\FitRoutine.IOC.pdb
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.IOC\obj\Debug\net8.0\FitRoutine.IOC.genruntimeconfig.cache
+C:\Users\Jorge Leyba\source\repos\Fit-Routine\FitRoutine\FitRoutine.IOC\obj\Debug\net8.0\ref\FitRoutine.IOC.dll

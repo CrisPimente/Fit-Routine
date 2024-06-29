@@ -1,12 +1,12 @@
-﻿using System;
+﻿using FitRoutine.Domain.Entities;
+using FitRoutine.Infrastructure;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace FitRoutine.Infrastructure.Repositories
+namespace FitRoutine.Domain.Repository
 {
-    public class ActivityRepository
+    public class ActivityRepository 
     {
     }
 }

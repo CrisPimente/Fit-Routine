@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FitRoutine.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4accd090f11364d6ff3ed1889d2a52849a0b7b1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dee4023b76c7cb6893fba2057f4149ec0af18963")]
 [assembly: System.Reflection.AssemblyProductAttribute("FitRoutine.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FitRoutine.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace FitRoutine.Infrastructure.Models
 {
-    internal class CategoryModel
+    public class CategoryModel
     {
-        public int Id { get; set; }
+        public int CategoryId { get; set; }
+
+        public string Name { get; set; } = null!;
+
+        public string? Description { get; set; }
+
     }
 }

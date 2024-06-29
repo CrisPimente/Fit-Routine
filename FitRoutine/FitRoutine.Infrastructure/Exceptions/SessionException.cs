@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FitRoutine.Infrastructure.Exceptions
 {
-    internal class SessionException
+    public class SessionException
     {
     }
 }
